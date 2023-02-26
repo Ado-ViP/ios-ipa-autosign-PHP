@@ -1,7 +1,7 @@
 # The fastest tool to document applications and replication
 
  # iPhone Distribution: abdaslam abdallah (xxxxxxx) Developer certificate name Example
- Certificate_Name = "iPhone Distribution: xxxxxxx xxxxxx (xxxxxxx)"
+ Certificate_Name = "iPhone Distribution: Ari ormani (3AN2F2YZR2)"
 
  # Profile path
  Profile_Path = "/ Users / xxxx / xxxxxx / xxxx / xxx / embedded.mobileprovision"
